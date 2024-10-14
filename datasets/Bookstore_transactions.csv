@@ -1,0 +1,21 @@
+Transaction ID,Transaction Items
+Trans1,"Cookbook, History Book"
+Trans2,Fiction Novel
+Trans3,"Children's Book, History Book, Mystery Novel, Fiction Novel, Cookbook, Poetry Collection, Art Book, Science Fiction Novel, Science Textbook, Biography"
+Trans4,"Fiction Novel, Cookbook"
+Trans5,"Mystery Novel, Science Textbook, Poetry Collection, Science Fiction Novel, Art Book, Biography, History Book, Cookbook, Fiction Novel, Children's Book"
+Trans6,Science Fiction Novel
+Trans7,"Mystery Novel, Biography, Cookbook, History Book, Children's Book, Fiction Novel, Poetry Collection, Art Book"
+Trans8,"Poetry Collection, Fiction Novel, Biography, Science Textbook, Art Book, Children's Book, Cookbook, History Book"
+Trans9,"Science Textbook, History Book, Science Fiction Novel, Poetry Collection, Biography"
+Trans10,"Science Textbook, Science Fiction Novel"
+Trans11,"Science Textbook, Science Fiction Novel"
+Trans12,"Fiction Novel, Cookbook, Science Fiction Novel"
+Trans13,"Fiction Novel, Cookbook, Mystery Novel, Art Book, History Book, Children's Book, Science Fiction Novel"
+Trans14,"Science Textbook, Mystery Novel"
+Trans15,Mystery Novel
+Trans16,"History Book, Fiction Novel, Biography, Science Fiction Novel, Children's Book, Art Book"
+Trans17,"History Book, Biography, Fiction Novel, Science Textbook, Mystery Novel, Cookbook, Poetry Collection, Science Fiction Novel, Children's Book, Art Book"
+Trans18,"Biography, History Book, Art Book, Children's Book, Fiction Novel, Science Fiction Novel, Cookbook, Poetry Collection, Science Textbook, Mystery Novel"
+Trans19,Biography
+Trans20,"Mystery Novel, Cookbook, Poetry Collection, History Book, Art Book, Science Fiction Novel"
